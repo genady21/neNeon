@@ -11,5 +11,5 @@ public class LocationOptions : ScriptableObject
    [SerializeField] private int _classSector;
    [SerializeField] private int _costEffect;
    [SerializeField] private int _momentOfUsingEffect;
-   [SerializeField] private string _effectSector;
+   [SerializeField] private int _effectSector;
 }

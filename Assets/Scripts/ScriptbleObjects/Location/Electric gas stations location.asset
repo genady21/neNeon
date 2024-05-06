@@ -10,5 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30af35fb28cc1d744b54149b2a497679, type: 3}
-  m_Name: LocationOptions
+  m_Name: Electric gas stations location
   m_EditorClassIdentifier: 
+  _name: Electric gas stations
+  _namberSector: 3
+  _classSector: 1
+  _costEffect: 0
+  _momentOfUsingEffect: 3
+  _effectSector: 3
